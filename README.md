@@ -9,9 +9,9 @@ Instruções para a adição no gestor:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/repo-luiz-023</code> (Dar o nome de "repo-luiz-023").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repo-luiz-023", e instalar <a href="repository.repo-luiz.023">repository.repo-luiz.023</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repo-luiz-023", e instalar <a href="repository.repo-luiz.023.zip">repository.repo-luiz.023.zip</a>.</li>
     -
-    <li>Repositório Instalado!!</li>
+    <li>Repositório Instalado!</li>
     
 </ul>
 

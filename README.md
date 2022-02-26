@@ -1,4 +1,4 @@
-# <a href="repository.repo-luiz.023">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="repository.repo-luiz.023.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 

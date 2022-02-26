@@ -11,7 +11,7 @@ Instruções para a adição no gestor:
     <li>Ir para "Addons"</li>
     <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repo-luiz-023", e instalar <a href="repository.repo-luiz.023">repository.repo-luiz.023</a>.</li>
     -
-    <li>Repositório Instalado!</li>
+    <li>Repositório Instalado!!</li>
     
 </ul>
 
